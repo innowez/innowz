@@ -9,7 +9,7 @@
 
     <meta property="og:title" content="Innowez">
    <meta name="robots" content="index, follow">
-   <?php include('assets/includes/meta.php') ?>
+  
 
     <meta property="og:image" content="" />
 
