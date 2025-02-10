@@ -26,9 +26,10 @@ $page_description = "Full-service digital solutions provider in Kerala. We offer
             </div>
             <div class="col-lg-6 d-flex align-items-center">
                 <div class="w-100">
-                    <h1>Best IT Company In Kerala</h1>
-                    <h3>What is lorem ipsum ?</h3>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex</p>
+                    <h1>Get in Touch with Us</h1>
+                    <h3>We’re Here to Help</h3>
+                    <p>Have questions or need a custom solution for your business? Reach out to us today! Our team is ready to assist you with IT solutions, web development, digital marketing, and more.</p>
+                    <p><strong>Email:</strong> info@innowez.com</p>
                 </div>
             </div>
         </div>
@@ -61,7 +62,7 @@ $page_description = "Full-service digital solutions provider in Kerala. We offer
                     </svg>
                     <div class="infoDetail">
                         <h5>Office Address</h5>
-                        <p>179 Western Avenue, Apt. 226, Margate, CA 66642</p>
+                        <p>7th floor, Business Park HiLITE City, NH 66, Thondayad, Kozhikode, Pantheeramkavu, Kerala 673014</p>
                     </div>
                 </div>
             </div>
@@ -121,10 +122,7 @@ $page_description = "Full-service digital solutions provider in Kerala. We offer
                     </svg>
                     <div class="infoDetail">
                         <h5>Office Address</h5>
-                        <p><a href="">Instagram</a></p>
-                        <p><a href="">Facebook</a></p>
-                        <p><a href="">Twitter</a></p>
-                        <p><a href="">Linked In</a></p>
+                        <p>7th floor, Business Park HiLITE City, NH 66, Thondayad, Kozhikode, Pantheeramkavu, Kerala 673014</p>
                     </div>
                 </div>
             </div>

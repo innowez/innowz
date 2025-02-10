@@ -27,9 +27,9 @@ $page_description = "Leading digital marketing agency in Kerala. We specialize i
             </div>
             <div class="col-lg-6 d-flex align-items-center">
                 <div class="w-100">
-                    <h1>Best IT Company In Kerala</h1>
-                    <h3>What is lorem ipsum ?</h3>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex</p>
+                    <h1>Your Reliable IT Partner in Kerala</h1>
+                    <h3>Who We Are</h3>
+                    <p>We are a leading IT solutions provider in Kerala, specializing in software development, web development, and digital marketing. With a passion for technology and innovation, we help businesses transform their digital presence and achieve success in a competitive market.</p>
                 </div>
             </div>
         </div>

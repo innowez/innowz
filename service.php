@@ -28,9 +28,9 @@ $page_description = "Experienced mobile app development company in Kerala. We bu
             </div>
             <div class="col-lg-6 d-flex align-items-center">
                 <div class="w-100">
-                    <h1>Best IT Company In Kerala</h1>
-                    <h3>What is lorem ipsum ?</h3>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex</p>
+                    <h1>Solutions Tailored for Your Business</h1>
+                    <h3>Empowering Your Digital Growth</h3>
+                    <p>We provide innovative IT and digital solutions designed to help businesses thrive in today’s competitive market. From custom software development to strategic digital marketing, our expertise ensures you achieve your goals with cutting-edge technology and creative strategies.</p>
                 </div>
             </div>
         </div>

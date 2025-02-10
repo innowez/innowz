@@ -28,8 +28,8 @@ $page_description = "Full-service digital solutions provider in Kerala. We offer
             <div class="col-lg-6 d-flex align-items-center">
                 <div class="w-100">
                     <h1>Best IT Company In Kerala</h1>
-                    <h3>What is lorem ipsum ?</h3>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex</p>
+                    <h3>Core Offerings and Expertise</h3>
+                    <p>Innowez specializes in delivering scalable IT products and services tailored to enhance productivity, security, and operational performance. Their portfolio spans software development, digital marketing, SEO, and cloud-based solutions. The company’s digital marketing prowess is particularly notable, with strategies designed to maximize online visibility, audience engagement, and ROI through SEO, social media marketing, and data-driven analytics13. For businesses seeking to dominate search engine rankings or build robust web and mobile applications, Innowez offers end-to-end solutions that align with client objectives.</p>
                 </div>
             </div>
         </div>
