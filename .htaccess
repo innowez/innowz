@@ -1,0 +1,26 @@
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Remove .php extension
+    RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+    RewriteRule ^ %1 [R=301,L]
+
+
+    # Redirect index.php or index to root "/"
+    RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/index(?:\.php)? [NC]
+    RewriteRule ^index(?:\.php)?$ / [R=301,L]
+    # Internally rewrite requests to .php
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME}.php -f
+    RewriteRule ^(.+)$ $1.php [L]
+    RewriteCond %{HTTPS} !=on
+    RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php82” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php82___lsphp .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
