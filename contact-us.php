@@ -1,9 +1,9 @@
 
-<?php include('assets/includes/link.php') ?>
 <?php
 $page_title = "Software Development Company | Digital Marketing Company | Kerala";
 $page_description = "Full-service digital solutions provider in Kerala. We offer expert software development, web development, and digital marketing services to help businesses thrive in the digital age. Contact us for a free consultation.";
 ?>
+<?php include('assets/includes/link.php') ?>
 <?php include('assets/includes/header.php') ?>
 
 <section class="banner pt-60 pb-60">

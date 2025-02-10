@@ -1,11 +1,11 @@
-
-<?php include('assets/includes/link.php') ?>
-
 <?php
 $page_title = "Mobile App Development Company | App Development Company | Kerala";
 $page_description = "Experienced mobile app development company in Kerala. We build high-quality, user-friendly iOS and Android apps that engage your audience and drive business success. Get a free quote today.";
 ?>
- <?php include('assets/includes/meta.php') ?>
+
+<?php include('assets/includes/link.php') ?>
+
+
 <?php include('assets/includes/header.php') ?>
 
 <section class="banner pt-60 pb-60">

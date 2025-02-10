@@ -1,10 +1,10 @@
 
-<?php include('assets/includes/link.php') ?>
-
 <?php
 $page_title = "Digital Marketing Agency | Digital Marketing Company | Kerala";
 $page_description = "Leading digital marketing agency in Kerala. We specialize in SEO, social media marketing, PPC, and more to increase your online visibility, attract more customers, and achieve your marketing goals.";
 ?>
+<?php include('assets/includes/link.php') ?>
+
 <?php include('assets/includes/header.php') ?>
 
 <section class="banner pt-60 pb-60">
