@@ -1,51 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-<url>
-  <loc>http://www.innowez.com/</loc>
-</url>
-<url>
-  <loc>http://www.innowez.com/index.php</loc>
-</url>
-<url>
-  <loc>http://www.innowez.com/about-us.php</loc>
-</url>
-<url>
-  <loc>http://www.innowez.com/service.php</loc>
-</url>
-<url>
-  <loc>http://www.innowez.com/portfolio.php</loc>
-</url>
-<url>
-  <loc>http://www.innowez.com/blog.php</loc>
-</url>
-<url>
-  <loc>http://www.innowez.com/contact-us.php</loc>
-</url>
-<url>
-  <loc>http://www.innowez.com/gallery.php</loc>
-</url>
-<url>
-  <loc>http://www.innowez.com/career.php</loc>
-</url>
-<url>
-  <loc>http://www.innowez.com/service-details.php</loc>
-</url>
-<url>
-  <loc>http://www.innowez.com/about-us.php</loc>
-</url>
-<url>
-  <loc>http://www.innowez.com/terms-conditions.php</loc>
-</url>
-<url>
-  <loc>http://www.innowez.com/privacy-policy.php</loc>
-</url>
-
-<url>
-  <loc>http://www.innowez.com/portfolio-details.php</loc>
-</url>
-<url>
-  <loc>http://www.innowez.com/blog-details.php</loc>
-</url>
-<url>
-  <loc>http://www.innowez.com/career-details.php</loc>
-</url>
+  <url>
+    <loc>http://www.innowez.com/</loc>
+  </url>
+  <url>
+    <loc>http://www.innowez.com/index.php</loc>
+  </url>
+  <url>
+    <loc>http://www.innowez.com/about-us.php</loc>
+  </url>
+  <url>
+    <loc>http://www.innowez.com/service.php</loc>
+  </url>
+  <url>
+    <loc>http://www.innowez.com/portfolio.php</loc>
+  </url>
+  <url>
+    <loc>http://www.innowez.com/blog.php</loc>
+  </url>
+  <url>
+    <loc>http://www.innowez.com/contact-us.php</loc>
+  </url>
+  <url>
+    <loc>http://www.innowez.com/gallery.php</loc>
+  </url>
+  <url>
+    <loc>http://www.innowez.com/career.php</loc>
+  </url>
+  <url>
+    <loc>http://www.innowez.com/service-details.php</loc>
+  </url>
+  <url>
+    <loc>http://www.innowez.com/terms-conditions.php</loc>
+  </url>
+  <url>
+    <loc>http://www.innowez.com/privacy-policy.php</loc>
+  </url>
+  <url>
+    <loc>http://www.innowez.com/portfolio-details.php</loc>
+  </url>
+  <url>
+    <loc>http://www.innowez.com/blog-details.php</loc>
+  </url>
+  <url>
+    <loc>http://www.innowez.com/career-details.php</loc>
+  </url>
+</urlset>
