@@ -31,7 +31,7 @@
   <loc>http://www.innowez.com/service-details.php</loc>
 </url>
 <url>
-  <loc>http://www.innowez.com/about-us.php#missionId</loc>
+  <loc>http://www.innowez.com/about-us.php</loc>
 </url>
 <url>
   <loc>http://www.innowez.com/terms-conditions.php</loc>
@@ -45,9 +45,6 @@
 </url>
 <url>
   <loc>http://www.innowez.com/blog-details.php</loc>
-</url>
-<url>
-  <loc></loc>
 </url>
 <url>
   <loc>http://www.innowez.com/career-details.php</loc>
