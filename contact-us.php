@@ -1,7 +1,7 @@
 
 <?php
-$page_title = "Software Development Company | Digital Marketing Company | Kerala";
-$page_description = "Full-service digital solutions provider in Kerala. We offer expert software development, web development, and digital marketing services to help businesses thrive in the digital age. Contact us for a free consultation.";
+$page_title = "social media marketing agency kerala | advertising company in kerala";
+$page_description = "Reach your target audience with our social media marketing and advertising services in Kerala. We specialize in creating engaging campaigns that deliver measurable ROI.";
 ?>
 <?php include('assets/includes/link.php') ?>
 <?php include('assets/includes/header.php') ?>

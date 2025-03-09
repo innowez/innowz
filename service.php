@@ -1,6 +1,6 @@
 <?php
-$page_title = "Mobile App Development Company | App Development Company | Kerala";
-$page_description = "Experienced mobile app development company in Kerala. We build high-quality, user-friendly iOS and Android apps that engage your audience and drive business success. Get a free quote today.";
+$page_title = " mobile app development company kerala india";
+$page_description = "Transform your ideas into reality! Our Kerala-based mobile app development company builds innovative and user-friendly apps for iOS and Android platforms. Contact us now!";
 ?>
 
 <?php include('assets/includes/link.php') ?>

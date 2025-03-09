@@ -1,7 +1,7 @@
 
 <?php
-$page_title = "Digital Marketing Agency | Digital Marketing Company | Kerala";
-$page_description = "Leading digital marketing agency in Kerala. We specialize in SEO, social media marketing, PPC, and more to increase your online visibility, attract more customers, and achieve your marketing goals.";
+$page_title = "website development in kerala | web development company in kerala";
+$page_description = ": Need a stunning and effective website? Our Kerala web development company creates custom websites tailored to your business needs. Get a free quote today!";
 ?>
 <?php include('assets/includes/link.php') ?>
 <?php include('assets/includes/header.php') ?>
