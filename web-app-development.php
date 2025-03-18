@@ -7,12 +7,12 @@
         <div class="row">
             <div class="col-12 text-center position-relative">
                 <img src="assets/images/shape-02.svg" class="img-fluid shape01" alt="">
-                <h2 class="mt-40 position-relative">Mobile App Development</h2>
+                <h2 class="mt-40 position-relative">Web development </h2>
                 <nav aria-label="breadcrumb position-relative">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="/">Home</a></li>
                         <li class="breadcrumb-item"><a href="service.php">Service</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Mobile App Development</li>
+                        <li class="breadcrumb-item active" aria-current="page">Web development </li>
                     </ol>
                 </nav>
             </div>
@@ -23,9 +23,9 @@
             </div>
             <div class="col-lg-6 d-flex align-items-center">
                 <div class="w-100">
-                    <h1>Best IT Company In Kerala</h1>
-                    <h3>What is lorem ipsum ?</h3>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex</p>
+                    <h1>Best  Web development company in Kerala</h1>
+                    <h3>What is web development  ?</h3>
+                    <p>Web development crafts websites, from coding to design, ensuring functionality and user experience. Innowez builds dynamic, responsive websites tailored to your needs, driving your online presence and business growth. We specialize in creating seamless, user-friendly digital experiences.</p>
                 </div>
             </div>
         </div>
@@ -71,8 +71,8 @@
                             </svg>
                         </div>
                         <div class="details">
-                            <h3>Transportation & Logistics Apps</h3>
-                            <p class="mt-15">We build responsive, user-centered apps for iOS and Android to engage your audience and drive growth.</p>
+                            <h3>Corporate Sites</h3>
+                            <p class="mt-15">Innowez crafts professional business websites, showcasing services, portfolios, and company details, building trust and credibility with potential clients through clear information and intuitive design.</p>
                         </div>
                         <a href="" class="mt-auto">Learn More</a>
                     </div>
@@ -95,8 +95,8 @@
 
                         </div>
                         <div class="details">
-                            <h3>On-Demand Mobile App</h3>
-                            <p class="mt-15">We build responsive, user-centered apps for iOS and Android to engage your audience and drive growth.</p>
+                            <h3>E-commerce Solutions</h3>
+                            <p class="mt-15">Innowez builds robust online stores, integrating secure payment gateways and efficient inventory management, enabling businesses to sell products seamlessly and expand their market reach online.</p>
                         </div>
                         <a href="" class="mt-auto">Learn More</a>
                     </div>
@@ -114,8 +114,8 @@
                             </svg>
                         </div>
                         <div class="details">
-                            <h3>Retail & E-Commerce App</h3>
-                            <p class="mt-15">We build responsive, user-centered apps for iOS and Android to engage your audience and drive growth.</p>
+                            <h3>   Portfolio Showcases </h3>
+                            <p class="mt-15"> Innowez designs visually appealing portfolio websites, highlighting past projects, client testimonials, and case studies, demonstrating their expertise and attracting new clients with tangible results.</p>
                         </div>
                         <a href="" class="mt-auto">Learn More</a>
                     </div>
@@ -128,8 +128,8 @@
                             </svg>
                         </div>
                         <div class="details">
-                            <h3>Booking & Service App</h3>
-                            <p class="mt-15">We build responsive, user-centered apps for iOS and Android to engage your audience and drive growth.</p>
+                            <h3>Targeted Landing Pages</h3>
+                            <p class="mt-15"> Innowez creates high-converting landing pages tailored for specific marketing campaigns, driving leads and conversions through focused content and strategic call-to-actions, maximizing campaign effectiveness.</p>
                         </div>
                         <a href="" class="mt-auto">Learn More</a>
                     </div>
@@ -140,8 +140,8 @@
                             </svg>
                         </div>
                         <div class="details">
-                            <h3>Enterprise App</h3>
-                            <p class="mt-15">We build responsive, user-centered apps for iOS and Android to engage your audience and drive growth.</p>
+                            <h3>Complex Web App</h3>
+                            <p class="mt-15"> Innowez develops sophisticated web applications, providing tailored software solutions for complex business needs, enhancing efficiency and productivity through custom-built, scalable platforms.</p>
                         </div>
                         <a href="" class="mt-auto">Learn More</a>
                     </div>
@@ -150,7 +150,7 @@
                             <svg width="58" height="58" viewBox="0 0 58 58" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <g clip-path="url(#clip0_418_863)">
                                     <path d="M3.95117 49.1504V57.5H27.3301V49.1504C27.3301 46.3879 25.0828 44.1406 22.3203 44.1406H8.96094C6.19844 44.1406 3.95117 46.3879 3.95117 49.1504Z" fill="white"/>
-                                    <path d="M15.6406 44.1406C19.3297 44.1406 22.3203 41.15 22.3203 37.4609C22.3203 33.7718 19.3297 30.7812 15.6406 30.7812C11.9515 30.7812 8.96094 33.7718 8.96094 37.4609C8.96094 41.15 11.9515 44.1406 15.6406 44.1406Z" fill="white"/>
+                                    <path d="  .6406 44.1406C19.3297 44.1406 22.3203 41.15 22.3203 37.4609C22.3203 33.7718 19.3297 30.7812 15.6406 30.7812C11.9515 30.7812 8.96094 33.7718 8.96094 37.4609C8.96094 41.15 11.9515 44.1406 15.6406 44.1406Z" fill="white"/>
                                     <path d="M30.6699 49.1504V57.5H54.0488V49.1504C54.0488 46.3879 51.8016 44.1406 49.0391 44.1406H35.6797C32.9172 44.1406 30.6699 46.3879 30.6699 49.1504Z" fill="white"/>
                                     <path d="M42.3594 44.1406C46.0485 44.1406 49.0391 41.15 49.0391 37.4609C49.0391 33.7718 46.0485 30.7812 42.3594 30.7812C38.6703 30.7812 35.6797 33.7718 35.6797 37.4609C35.6797 41.15 38.6703 44.1406 42.3594 44.1406Z" fill="white"/>
                                     <path d="M7.29102 10.5195C7.29102 16.0446 11.7854 20.5391 17.3105 20.5391V28.0456L26.2668 20.5391H31.7332L40.6895 28.0456V20.5391C46.2146 20.5391 50.709 16.0446 50.709 10.5195C50.709 4.99443 46.2146 0.5 40.6895 0.5H17.3105C11.7854 0.5 7.29102 4.99443 7.29102 10.5195ZM34.0098 8.84961H37.3496V12.1895H34.0098V8.84961ZM27.3301 8.84961H30.6699V12.1895H27.3301V8.84961ZM20.6504 8.84961H23.9902V12.1895H20.6504V8.84961Z" fill="white"/>
@@ -163,37 +163,12 @@
                             </svg>
                         </div>
                         <div class="details">
-                            <h3>Social & Communication App</h3>
-                            <p class="mt-15">We build responsive, user-centered apps for iOS and Android to engage your audience and drive growth.</p>
+                            <h3>Content-Rich Blogs</h3>
+                            <p class="mt-15">Innowez builds engaging blog and content websites, utilizing strong content management systems to deliver valuable information, driving traffic and establishing authority within specific industries.</p>
                         </div>
                         <a href="" class="mt-auto">Learn More</a>
                     </div>
-                    <div class="weDoCard ms-auto me-auto">
-                        <div class="icon">
-                            <svg width="58" height="58" viewBox="0 0 58 58" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <g clip-path="url(#clip0_418_885)">
-                                    <path d="M18.3125 24.2501H25.4375C26.0939 24.2501 26.6251 23.7189 26.6251 23.0625V15.9375C26.6251 15.2811 26.0939 14.75 25.4375 14.75H18.3125C17.6561 14.75 17.125 15.2811 17.125 15.9375V23.0625C17.125 23.719 17.6561 24.2501 18.3125 24.2501Z" fill="white"/>
-                                    <path d="M31.375 23.0625C31.375 23.7189 31.9061 24.2501 32.5625 24.2501H39.6875C40.3439 24.2501 40.8751 23.7189 40.8751 23.0625V15.9375C40.8751 15.2811 40.3439 14.75 39.6875 14.75H32.5625C31.9061 14.75 31.375 15.2811 31.375 15.9375V23.0625Z" fill="white"/>
-                                    <path d="M18.3125 38.5001H25.4375C26.0939 38.5001 26.6251 37.9689 26.6251 37.3125V30.1875C26.6251 29.5311 26.0939 29 25.4375 29H18.3125C17.6561 29 17.125 29.5311 17.125 30.1875V37.3125C17.125 37.969 17.6561 38.5001 18.3125 38.5001Z" fill="white"/>
-                                    <path d="M39.6875 29H32.5625C31.9061 29 31.375 29.5311 31.375 30.1875V37.3125C31.375 37.9689 31.9061 38.5001 32.5625 38.5001H39.6875C40.3439 38.5001 40.8751 37.9689 40.8751 37.3125V30.1875C40.8751 29.5311 40.3439 29 39.6875 29Z" fill="white"/>
-                                    <path d="M27.8125 10.0001H30.1875C30.8439 10.0001 31.375 9.46893 31.375 8.81254C31.375 8.15615 30.8439 7.625 30.1875 7.625H27.8125C27.1561 7.625 26.625 8.15615 26.625 8.81254C26.6251 9.46904 27.1563 10.0001 27.8125 10.0001Z" fill="white"/>
-                                    <path d="M43.25 0.5H14.75C12.1304 0.5 10 2.63026 10 5.25004V52.7501C10 55.3697 12.1304 57.5 14.75 57.5H43.25C45.8697 57.5 48.0001 55.3697 48.0001 52.75V5.25004C48.0001 2.63026 45.8697 0.5 43.25 0.5ZM32.5625 52.75H25.4375C24.7811 52.75 24.25 52.2188 24.25 51.5624C24.25 50.906 24.7811 50.375 25.4375 50.375H32.5625C33.2189 50.375 33.7501 50.9061 33.7501 51.5625C33.7501 52.2189 33.2189 52.75 32.5625 52.75ZM43.25 45.625H14.75V5.25004H43.25V45.625Z" fill="white"/>
-                                    <path d="M39.6875 10.0001C40.3434 10.0001 40.8751 9.4684 40.8751 8.81254C40.8751 8.15668 40.3434 7.625 39.6875 7.625C39.0317 7.625 38.5 8.15668 38.5 8.81254C38.5 9.4684 39.0317 10.0001 39.6875 10.0001Z" fill="white"/>
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_418_885">
-                                        <rect width="57" height="57" fill="white" transform="translate(0.5 0.5)"/>
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="details">
-                            <h3>Super App</h3>
-                            <p class="mt-15">We build responsive, user-centered apps for iOS and Android to engage your audience and drive growth.</p>
-                        </div>
-                        <a href="" class="mt-auto">Learn More</a>
-                    </div>
-                </div>
+               
             </div>
         </div>
     </div>
@@ -236,7 +211,7 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-11 text-center">
-                <h2>Our Mobile App Development Process</h2>
+                <h2>Our Website Development Process</h2>
             </div>
         </div>
         <div class="row mt-60">
@@ -245,8 +220,8 @@
                     <div class="icon">
                         <img src="assets/images/process/process-01.svg" class="img-fluid"  alt="">
                     </div>
-                    <h4>Build a Viable Strategy</h4>
-                    <p>The first step in the mobile app development process is to convert your understanding into a logical concept. You could make this a greater part of the overall mobility protocol. It's vital to remember that the goals of each app differ, thus the mobility approach must be tailored accordingly.</p>
+                    <h4>Discovery & Planning</h4>
+                    <p>We begin by understanding your goals, target audience, and business needs. We define the project scope, create a sitemap, and plan the website's structure and functionality</p>
                 </div>
             </div>
             <div class=" col-lg-7 d-lg-block d-none ">
@@ -262,8 +237,8 @@
                     <div class="icon">
                         <img src="assets/images/process/process-02.svg" class="img-fluid" alt="">
                     </div>
-                    <h4>Build a Viable Strategy</h4>
-                    <p>The first step in the mobile app development process is to convert your understanding into a logical concept. You could make this a greater part of the overall mobility protocol. It's vital to remember that the goals of each app differ, thus the mobility approach must be tailored accordingly.</p>
+                    <h4>Design & Prototyping</h4>
+                    <p>Our designers craft visually appealing and user-friendly interfaces. We create wireframes and prototypes to visualize the website's layout and user experience, ensuring it aligns with your brand.</p>
                 </div>
             </div>
         </div>
@@ -273,8 +248,8 @@
                     <div class="icon">
                         <img src="assets/images/process/process-03.svg" class="img-fluid" alt="">
                     </div>
-                    <h4>Build a Viable Strategy</h4>
-                    <p>The first step in the mobile app development process is to convert your understanding into a logical concept. You could make this a greater part of the overall mobility protocol. It's vital to remember that the goals of each app differ, thus the mobility approach must be tailored accordingly.</p>
+                    <h4>Development & Coding</h4>
+                    <p> Our developers bring the design to life, writing clean and efficient code. We build the website's functionality, integrate databases, and ensure cross-browser compatibility.</p>
                 </div>
             </div>
             <div class="col-md-7 col-lg-7 d-lg-block d-none">
@@ -290,8 +265,8 @@
                     <div class="icon">
                         <img src="assets/images/process/process-04.svg" class="img-fluid" alt="">
                     </div>
-                    <h4>Build a Viable Strategy</h4>
-                    <p>The first step in the mobile app development process is to convert your understanding into a logical concept. You could make this a greater part of the overall mobility protocol. It's vital to remember that the goals of each app differ, thus the mobility approach must be tailored accordingly.</p>
+                    <h4>Content Creation & Integration</h4>
+                    <p> We help create or integrate compelling content, including text, images, and videos. We optimize content for search engines and ensure it aligns with your brand messaging.</p>
                 </div>
             </div>
         </div>
@@ -301,8 +276,8 @@
                     <div class="icon">
                         <img src="assets/images/process/process-05.svg" class="img-fluid " alt="">
                     </div>
-                    <h4>Build a Viable Strategy</h4>
-                    <p>The first step in the mobile app development process is to convert your understanding into a logical concept. You could make this a greater part of the overall mobility protocol. It's vital to remember that the goals of each app differ, thus the mobility approach must be tailored accordingly.</p>
+                    <h4>Testing & Quality Assurance</h4>
+                    <p>We conduct thorough testing to identify and fix any bugs or issues. We ensure the website is responsive, secure, and performs optimally across all devices.</p>
                 </div>
             </div>
             <div class="col-md-7 col-lg-7 d-lg-block d-none">
@@ -310,18 +285,35 @@
             </div>
         </div>
         <div class="row mt-50">
-            <div class="col-md-7 col-lg-7 d-flex justify-content-end d-lg-block d-none">
+        <div class="col-md-7 col-lg-7 position-relative d-lg-block d-none">
+                <img src="assets/images/process/line-02.svg" class="img-fluid w-74p topMove02" alt="">
             </div>
             <div class="col-md-12 col-lg-4 ">
                 <div class="processCard">
                     <div class="icon">
                         <img src="assets/images/process/process-06.svg" class="img-fluid " alt="">
                     </div>
-                    <h4>Build a Viable Strategy</h4>
-                    <p>The first step in the mobile app development process is to convert your understanding into a logical concept. You could make this a greater part of the overall mobility protocol. It's vital to remember that the goals of each app differ, thus the mobility approach must be tailored accordingly.</p>
+                    <h4>Deployment & Launch</h4>
+                    <p>We deploy the website to your chosen hosting environment and ensure a smooth launch. We provide ongoing support and maintenance to keep your website up-to-date and secure.</p>
                 </div>
             </div>
+           
         </div>
+        <div class="row mt-50">
+         
+           
+            <div class="col-md-12 col-lg-4 ">
+                <div class="processCard">
+                    <div class="icon">
+                        <img src="assets/images/process/process-06.svg" class="img-fluid " alt="">
+                    </div>
+                    <h4>Maintenance & Optimization</h4>
+                    <p>Once launched we provide ongoing support, and maintenance. We also provide optimization services to improve website performance, SEO, and user experience.</p>
+                </div>
+            </div>
+           
+        </div>
+        
     </div>
 </section>
 
