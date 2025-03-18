@@ -55,7 +55,7 @@ $page_description = "Transform your ideas into reality! Our Kerala-based mobile 
                             <h3>Mobile App <br>Development</h3>
                             <p class="mt-15">Our app development team brings your vision to life with engaging, user-centric applications tailored to your business needs.</p>
                         </div>
-                        <a href="service-details.php" class="mt-auto">Learn More</a>
+                        <a href="mobile-app-development.php" target="_blank" class="mt-auto">Learn More</a>
                     </div>
                     <div class="weDoCard">
                         <div class="icon">
@@ -71,7 +71,7 @@ $page_description = "Transform your ideas into reality! Our Kerala-based mobile 
                             <h3>Web <br>Development</h3>
                             <p class="mt-15">Our web development team specializes in creating responsive, fast-loading websites that reflect your brand identity and captivate users.</p>
                         </div>
-                        <a href="service-details.php" class="mt-auto">Learn More</a>
+                        <a href="web-app-development.php" class="mt-auto">Learn More</a>
                     </div>
                     <div class="weDoCard">
                         <div class="icon">
@@ -83,7 +83,7 @@ $page_description = "Transform your ideas into reality! Our Kerala-based mobile 
                             <h3>Digital <br>Marketing</h3>
                             <p class="mt-15">Navigate the digital landscape with strategies that drive real results.</p>
                         </div>
-                        <a href="service-details.php" class="mt-auto">Learn More</a>
+                        <a href="digital-marketing.php" class="mt-auto">Learn More</a>
                     </div>
 
                     <div class="weDoCard">
@@ -98,7 +98,7 @@ $page_description = "Transform your ideas into reality! Our Kerala-based mobile 
                             <h3>Quality <br>Assurance</h3>
                             <p class="mt-15">Our quality check services focus on delivering perfection at every step of your project.</p>
                         </div>
-                        <a href="service-details.php" class="mt-auto">Learn More</a>
+                        <a href="quality-assurance.php" class="mt-auto">Learn More</a>
                     </div>
                     <div class="weDoCard">
                         <div class="icon">
@@ -120,7 +120,7 @@ $page_description = "Transform your ideas into reality! Our Kerala-based mobile 
                             <h3>Graphic <br>Designing</h3>
                             <p class="mt-15">Our graphic design team brings your brand to life through compelling visuals.</p>
                         </div>
-                        <a href="service-details.php" class="mt-auto">Learn More</a>
+                        <a href="graphic-designing.php" target="_blank" class="mt-auto">Learn More</a>
                     </div>
                     <div class="weDoCard">
                         <div class="icon">
@@ -142,7 +142,7 @@ $page_description = "Transform your ideas into reality! Our Kerala-based mobile 
                             <h3>Social Media <br>Marketing</h3>
                             <p class="mt-15">Connect with your audience on the platforms they use most.</p>
                         </div>
-                        <a href="service-details.php" class="mt-auto">Learn More</a>
+                        <a href="social-media-marketing.php" class="mt-auto">Learn More</a>
                     </div>
                 </div>
             </div>
