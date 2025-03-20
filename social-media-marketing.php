@@ -7,12 +7,12 @@
         <div class="row">
             <div class="col-12 text-center position-relative">
                 <img src="assets/images/shape-02.svg" class="img-fluid shape01" alt="">
-                <h2 class="mt-40 position-relative">Mobile App Development</h2>
+                <h2 class="mt-40 position-relative">Digital Marketing </h2>
                 <nav aria-label="breadcrumb position-relative">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="/">Home</a></li>
                         <li class="breadcrumb-item"><a href="service.php">Service</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Mobile App Development</li>
+                        <li class="breadcrumb-item active" aria-current="page">Digital Marketing</li>
                     </ol>
                 </nav>
             </div>
@@ -23,9 +23,9 @@
             </div>
             <div class="col-lg-6 d-flex align-items-center">
                 <div class="w-100">
-                    <h1>Best IT Company In Kerala</h1>
-                    <h3>What is lorem ipsum ?</h3>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex</p>
+                    <h1>Best Digital Marketing Agency in Kerala</h1>
+                
+                    <p>Innowez is Kerala’s leading digital marketing agency, delivering expert strategies in social media marketing, SEO, SEM, and graphic design. Specializing in tourism, jewelry, automobiles, hospitals, and textiles, Innowez ensures targeted results, brand growth, and maximum ROI with innovative, data-driven marketing solutions</p>
                 </div>
             </div>
         </div>
@@ -38,15 +38,15 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-11 text-center">
-                <h3>Transforming Ideas into Innovative Mobile Experiences</h3>
-                <p class="mt-20">At Innowez, we turn your visionary ideas into cutting-edge mobile applications that deliver seamless performance and outstanding user experiences. With a blend of creativity, innovation, and the latest technology, we craft apps that connect with your audience and elevate your business to new heights</p>
+                <h3>Transforming Ideas into Innovative digital marketing Experiences</h3>
+                <p class="mt-20">Transforming ideas into innovative digital marketing experiences, Innowez blends creativity with strategy to drive brand success. We craft data-driven campaigns, optimize engagement, and deliver impactful results. From SEO to social media, our expertise ensures businesses thrive in the digital landscape with compelling, customized marketing solutions.</p>
             </div>
             <div class="col-12 d-flex align-items-center justify-content-center pt-80 pb-80">
                 <img src="assets/images/mobileAppImage02.svg" class="img-fluid" alt="">
             </div>
             <div class="col-12 text-center">
-                <h2>Different Industries We Serve</h2>
-                <p class="mt-20">We take pleasure in tailoring custom mobile application development options to your company and making them stand out on the App Store and Google Play.</p>
+                <h2>Different Industries We Serve in innowez Digital Marketing</h2>
+                <p class="mt-20">Innowez Digital Marketing excels across tourism, jewelry, automobiles, hospitals, and textiles. We leverage SEO, social media, and paid advertising for brand growth. Expect customized solutions, maximum visibility, and targeted reach, ensuring your business thrives.</p>
             </div>
         </div>
     </div>
@@ -71,8 +71,9 @@
                             </svg>
                         </div>
                         <div class="details">
-                            <h3>Transportation & Logistics Apps</h3>
-                            <p class="mt-15">We build responsive, user-centered apps for iOS and Android to engage your audience and drive growth.</p>
+                            <h3>Social Media Marketing (SMM)
+                            </h3>
+                            <p class="mt-15">We leverage Facebook, Instagram, and LinkedIn to enhance brand awareness, engage audiences, and drive traffic through compelling content, targeted ads, and community management.</p>
                         </div>
                         <a href="" class="mt-auto">Learn More</a>
                     </div>
@@ -95,8 +96,8 @@
 
                         </div>
                         <div class="details">
-                            <h3>On-Demand Mobile App</h3>
-                            <p class="mt-15">We build responsive, user-centered apps for iOS and Android to engage your audience and drive growth.</p>
+                            <h3>Pay-Per-Click (PPC) Advertising</h3>
+                            <p class="mt-15">Our strategic paid campaigns on search engines and social media ensure immediate visibility, targeted reach, and quick lead generation.</p>
                         </div>
                         <a href="" class="mt-auto">Learn More</a>
                     </div>
@@ -114,8 +115,8 @@
                             </svg>
                         </div>
                         <div class="details">
-                            <h3>Retail & E-Commerce App</h3>
-                            <p class="mt-15">We build responsive, user-centered apps for iOS and Android to engage your audience and drive growth.</p>
+                            <h3>Content Marketing</h3>
+                            <p class="mt-15">We create valuable and engaging content—blogs, videos, and infographics—to establish brand authority, build trust, and drive organic traffic.</p>
                         </div>
                         <a href="" class="mt-auto">Learn More</a>
                     </div>
@@ -128,8 +129,8 @@
                             </svg>
                         </div>
                         <div class="details">
-                            <h3>Booking & Service App</h3>
-                            <p class="mt-15">We build responsive, user-centered apps for iOS and Android to engage your audience and drive growth.</p>
+                            <h3>Email Marketing</h3>
+                            <p class="mt-15">Personalized email campaigns nurture leads, strengthen customer relationships, and boost conversions with targeted messaging.</p>
                         </div>
                         <a href="" class="mt-auto">Learn More</a>
                     </div>
@@ -140,8 +141,9 @@
                             </svg>
                         </div>
                         <div class="details">
-                            <h3>Enterprise App</h3>
-                            <p class="mt-15">We build responsive, user-centered apps for iOS and Android to engage your audience and drive growth.</p>
+                            <h3>Website Design & Development
+                            </h3>
+                            <p class="mt-15">We craft visually appealing, user-friendly, and mobile-responsive websites that enhance brand presence and maximize conversions.</p>
                         </div>
                         <a href="" class="mt-auto">Learn More</a>
                     </div>
@@ -163,8 +165,8 @@
                             </svg>
                         </div>
                         <div class="details">
-                            <h3>Social & Communication App</h3>
-                            <p class="mt-15">We build responsive, user-centered apps for iOS and Android to engage your audience and drive growth.</p>
+                            <h3>Analytics & Reporting</h3>
+                            <p class="mt-15">Data-driven insights help us track performance, optimize strategies, and improve campaign effectiveness for better business growth.</p>
                         </div>
                         <a href="" class="mt-auto">Learn More</a>
                     </div>
@@ -187,12 +189,7 @@
                                 </defs>
                             </svg>
                         </div>
-                        <div class="details">
-                            <h3>Super App</h3>
-                            <p class="mt-15">We build responsive, user-centered apps for iOS and Android to engage your audience and drive growth.</p>
-                        </div>
-                        <a href="" class="mt-auto">Learn More</a>
-                    </div>
+                
                 </div>
             </div>
         </div>
@@ -203,8 +200,10 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class=" col-lg-11 text-center">
-                <h2>Technologies We Are Using</h2>
-                <p class="mt-20">We leverage state-of-the-art technology to deliver inventive solutions to our clients, encompassing advanced tools for software development and cutting-edge technologies.</p>
+                <h2>
+Technologies We Use at Innowez
+</h2>
+                <p class="mt-20">At Innowez, we utilize cutting-edge technologies to deliver top-notch digital marketing solutions.</p>
             </div>
         </div>
         <div class="row justify-content-center mt-50">
@@ -236,7 +235,7 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-11 text-center">
-                <h2>Our Mobile App Development Process</h2>
+                <h2>Our Digital Marketing Process</h2>
             </div>
         </div>
         <div class="row mt-60">
@@ -245,8 +244,8 @@
                     <div class="icon">
                         <img src="assets/images/process/process-01.svg" class="img-fluid"  alt="">
                     </div>
-                    <h4>Build a Viable Strategy</h4>
-                    <p>The first step in the mobile app development process is to convert your understanding into a logical concept. You could make this a greater part of the overall mobility protocol. It's vital to remember that the goals of each app differ, thus the mobility approach must be tailored accordingly.</p>
+                    <h4>Research & Strategy </h4>
+                    <p>We analyze your industry, competitors, and audience to craft a data-driven marketing strategy.</p>
                 </div>
             </div>
             <div class=" col-lg-7 d-lg-block d-none ">
@@ -262,8 +261,8 @@
                     <div class="icon">
                         <img src="assets/images/process/process-02.svg" class="img-fluid" alt="">
                     </div>
-                    <h4>Build a Viable Strategy</h4>
-                    <p>The first step in the mobile app development process is to convert your understanding into a logical concept. You could make this a greater part of the overall mobility protocol. It's vital to remember that the goals of each app differ, thus the mobility approach must be tailored accordingly.</p>
+                    <h4>Content Creation </h4>
+                    <p>Engaging content, from blogs to videos, is developed to captivate and inform your audience.</p>
                 </div>
             </div>
         </div>
@@ -273,8 +272,8 @@
                     <div class="icon">
                         <img src="assets/images/process/process-03.svg" class="img-fluid" alt="">
                     </div>
-                    <h4>Build a Viable Strategy</h4>
-                    <p>The first step in the mobile app development process is to convert your understanding into a logical concept. You could make this a greater part of the overall mobility protocol. It's vital to remember that the goals of each app differ, thus the mobility approach must be tailored accordingly.</p>
+                    <h4>SEO & Optimization </h4>
+                    <p>We enhance website visibility with keyword research, on-page optimization, and technical SEO.</p>
                 </div>
             </div>
             <div class="col-md-7 col-lg-7 d-lg-block d-none">
@@ -290,8 +289,8 @@
                     <div class="icon">
                         <img src="assets/images/process/process-04.svg" class="img-fluid" alt="">
                     </div>
-                    <h4>Build a Viable Strategy</h4>
-                    <p>The first step in the mobile app development process is to convert your understanding into a logical concept. You could make this a greater part of the overall mobility protocol. It's vital to remember that the goals of each app differ, thus the mobility approach must be tailored accordingly.</p>
+                    <h4>Social Media & Ads </h4>
+                    <p>Targeted social media campaigns and paid ads drive engagement, traffic, and conversions.</p>
                 </div>
             </div>
         </div>
@@ -301,8 +300,8 @@
                     <div class="icon">
                         <img src="assets/images/process/process-05.svg" class="img-fluid " alt="">
                     </div>
-                    <h4>Build a Viable Strategy</h4>
-                    <p>The first step in the mobile app development process is to convert your understanding into a logical concept. You could make this a greater part of the overall mobility protocol. It's vital to remember that the goals of each app differ, thus the mobility approach must be tailored accordingly.</p>
+                    <h4>Lead Generation & Nurturing </h4>
+                    <p>We attract potential customers and build strong relationships through strategic funnels.</p>
                 </div>
             </div>
             <div class="col-md-7 col-lg-7 d-lg-block d-none">
@@ -310,17 +309,31 @@
             </div>
         </div>
         <div class="row mt-50">
-            <div class="col-md-7 col-lg-7 d-flex justify-content-end d-lg-block d-none">
+            <div class="col-md-7 col-lg-7 position-relative d-lg-block d-none">
+                <img src="assets/images/process/line-02.svg" class="img-fluid w-74p topMove02" alt="">
             </div>
-            <div class="col-md-12 col-lg-4 ">
+            <div class="col-md-12 col-lg-4">
                 <div class="processCard">
                     <div class="icon">
-                        <img src="assets/images/process/process-06.svg" class="img-fluid " alt="">
+                        <img src="assets/images/process/process-04.svg" class="img-fluid" alt="">
                     </div>
-                    <h4>Build a Viable Strategy</h4>
-                    <p>The first step in the mobile app development process is to convert your understanding into a logical concept. You could make this a greater part of the overall mobility protocol. It's vital to remember that the goals of each app differ, thus the mobility approach must be tailored accordingly.</p>
+                    <h4>
+                    Performance Tracking  </h4>
+                    <p>Advanced analytics tools monitor campaign success and provide actionable insights.</p>
                 </div>
             </div>
+        </div>
+        <div class="row mt-50">
+            <div class="col-md-12 col-lg-4">
+                <div class="processCard">
+                    <div class="icon">
+                        <img src="assets/images/process/process-05.svg" class="img-fluid " alt="">
+                    </div>
+                    <h4>Continuous Improvement  </h4>
+                    <p>We refine strategies based on data, ensuring ongoing growth and maximum ROI.</p>
+                </div>
+            </div>
+            
         </div>
     </div>
 </section>
